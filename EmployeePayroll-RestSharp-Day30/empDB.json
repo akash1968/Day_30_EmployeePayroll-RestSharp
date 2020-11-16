@@ -39,6 +39,11 @@
       "name": "Steph Curry",
       "salary": "125000",
       "id": "8"
+    },
+    {
+      "name": "Kobe Bryant",
+      "salary": "100000",
+      "id": "9"
     }
   ]
 }
